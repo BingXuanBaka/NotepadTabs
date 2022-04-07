@@ -1,0 +1,36 @@
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\bin\Debug\Notepad Tabs.exe.manifest
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\bin\Debug\Notepad Tabs.application
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\bin\Debug\Notepad Tabs.exe
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\bin\Debug\Notepad Tabs.pdb
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad_Tabs.AboutBox1.resources
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad_Tabs.Form1.resources
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad_Tabs.Find.resources
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad_Tabs.Properties.Resources.resources
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad_Tabs.Replace.resources
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad Tabs.csproj.GenerateResource.cache
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad Tabs.csproj.CoreCompileInputs.cache
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad Tabs.TrustInfo.xml
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad Tabs.exe.manifest
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad Tabs.application
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad Tabs.exe
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad Tabs.pdb
+C:\Users\-BingXuan-\Desktop\Notepad Tabs\obj\Debug\Notepad Tabs.csprojAssemblyReference.cache
+F:\Notepad Tabs\bin\Debug\Notepad Tabs.exe.config
+F:\Notepad Tabs\bin\Debug\Notepad Tabs.exe.manifest
+F:\Notepad Tabs\bin\Debug\Notepad Tabs.application
+F:\Notepad Tabs\bin\Debug\Notepad Tabs.exe
+F:\Notepad Tabs\bin\Debug\Notepad Tabs.pdb
+F:\Notepad Tabs\obj\Debug\Notepad Tabs.csproj.AssemblyReference.cache
+F:\Notepad Tabs\obj\Debug\Notepad Tabs.csproj.SuggestedBindingRedirects.cache
+F:\Notepad Tabs\obj\Debug\Notepad_Tabs.AboutBox1.resources
+F:\Notepad Tabs\obj\Debug\Notepad_Tabs.Form1.resources
+F:\Notepad Tabs\obj\Debug\Notepad_Tabs.Find.resources
+F:\Notepad Tabs\obj\Debug\Notepad_Tabs.Properties.Resources.resources
+F:\Notepad Tabs\obj\Debug\Notepad_Tabs.Replace.resources
+F:\Notepad Tabs\obj\Debug\Notepad Tabs.csproj.GenerateResource.cache
+F:\Notepad Tabs\obj\Debug\Notepad Tabs.csproj.CoreCompileInputs.cache
+F:\Notepad Tabs\obj\Debug\Notepad Tabs.TrustInfo.xml
+F:\Notepad Tabs\obj\Debug\Notepad Tabs.exe.manifest
+F:\Notepad Tabs\obj\Debug\Notepad Tabs.application
+F:\Notepad Tabs\obj\Debug\Notepad Tabs.exe
+F:\Notepad Tabs\obj\Debug\Notepad Tabs.pdb
